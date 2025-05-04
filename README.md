@@ -1,1 +1,2 @@
 I’ve developed a chatbot using Botpress
+To test the chatbot, just download the cars.html file to your computer and open it directly in your web browser
